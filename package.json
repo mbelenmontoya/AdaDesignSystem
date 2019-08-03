@@ -1,0 +1,28 @@
+{
+    "name": "ada-design-system",
+    "version": "1.0.0",
+    "description": "Ada Design System es un proyecto de la 7ma generación de Ada Front End, que busca generar un sistema de diseño basado en la metodología de Atomic Design para proveer componentes que armen landing pages que sirvan de portfolio para las alumanas.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mbelenmontoya/AdaDesignSystem.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "autoprefixer": "^9.4.3",
+        "browser-sync": "^2.26.3",
+        "cssnano": "^4.1.8",
+        "gulp": "^4.0.0",
+        "gulp-postcss": "^8.0.0",
+        "gulp-sass": "^4.0.2",
+        "gulp-sourcemaps": "^2.6.4"
+    },
+    "bugs": {
+        "url": "https://github.com/mbelenmontoya/AdaDesignSystem/issues"
+    },
+    "homepage": "https://github.com/mbelenmontoya/AdaDesignSystem#readme"
+}
